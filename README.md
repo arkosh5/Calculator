@@ -10,11 +10,11 @@ Supports input of decimal numbers.
 Handles percentage calculations.
 Responsive design suitable for desktop and mobile devices.
 Customizable theme with a theme toggle.
-Installation
+# Installation
 Clone the repository:
 ```git clone https://github.com/yourusername/calculator-app.git```
 Open the index.html file in your preferred web browser.
-Usage
+# Usage
 Click or tap the buttons on the calculator interface to input numbers and operators.
 Click or tap the desired function button to perform advanced mathematical functions.
 Use the memory buttons (MC, MR, MS, M+) to store and recall values from memory.
@@ -22,5 +22,5 @@ Click or tap the 'C' button to clear the current input and the history.
 Use the 'Del' button to delete the last character from the current input.
 Click or tap the theme toggle to switch between light and dark themes.
 
-License
+# License
 This calculator app is released under the MIT License.
