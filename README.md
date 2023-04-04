@@ -12,7 +12,7 @@ Responsive design suitable for desktop and mobile devices.
 Customizable theme with a theme toggle.
 # Installation
 Clone the repository:
-```git clone https://github.com/yourusername/calculator-app.git```
+```git clone https://github.com/arkosh5/Calculator-app.git```
 Open the index.html file in your preferred web browser.
 # Usage
 Click or tap the buttons on the calculator interface to input numbers and operators.
